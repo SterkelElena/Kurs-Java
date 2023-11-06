@@ -1,6 +1,6 @@
 package homework.dao;
 
-import homework.Document;
+import homework.model.Document;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;

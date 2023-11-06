@@ -1,6 +1,6 @@
 package homework.dao;
 
-import homework.Document;
+import homework.model.Document;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
