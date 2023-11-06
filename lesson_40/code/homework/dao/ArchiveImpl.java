@@ -16,10 +16,13 @@ public class ArchiveImpl implements Archive{
     };
     private Document[] documents;
     private int size;
-    public  ArchiveImpl(int capacity) {documents = new Document[capacity];}
+    public  ArchiveImpl(int capacity) {
+        documents = new Document[capacity];
+    }
     @Override
     public boolean addDocument(Document document) {
-        if (document == null || size == documents.length || getDocument(document.getDocumentId(), document.getFolderId()) != null) {
+        if (document == null || size == documents.length || getDocumentFromFolder(document.getDocumentId(),
+                document.getFolderId()) != null) {
             return false;
         }
         int index = Arrays.binarySearch(documents, 0, size, document,comparator);
@@ -30,8 +33,8 @@ public class ArchiveImpl implements Archive{
         return true;
     }
     @Override
-    public boolean updateDocument(int folderId, int documentId, String name, String url) {
-        Document document = getDocument(documentId, folderId);
+    public boolean updateDocument(int folderId, int documentId, String url) {
+        Document document = getDocumentFromFolder(documentId, folderId);
         if (document == null){
             return false;
         }
@@ -40,7 +43,7 @@ public class ArchiveImpl implements Archive{
     }
 
     @Override
-    public Document getDocument(int folderId, int documentId) {
+    public Document getDocumentFromFolder (int folderId, int documentId) {
         Document pattern = new Document(folderId, documentId, null, null, null);
         for (int i = 0; i < size; i++) {
             if (pattern.equals(documents[i])) {
@@ -66,7 +69,7 @@ public class ArchiveImpl implements Archive{
         return Arrays.copyOf(res, j);
     }
     @Override
-    public Document[] getDocumentsByDate(LocalDate dateFrom, LocalDate dateTo) {
+    public Document[] getDocumentByDate(LocalDate dateFrom, LocalDate dateTo) {
         Document pattern = new Document(0, Integer.MIN_VALUE, null, null, dateFrom.atStartOfDay());
         int from = -Arrays.binarySearch(documents, 0, size, pattern, comparator) -1;
 //        from = from >= 0 ? from : -from - 1;

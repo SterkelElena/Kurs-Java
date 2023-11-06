@@ -67,8 +67,7 @@ public class Document implements Comparable<Document>{
         if (object == null || getClass() != object.getClass()) return false;
         Document document = (Document) object;
         return folderId == document.folderId &&
-                documentId == document.documentId &&
-                Objects.equals(date, document.date);
+                documentId == document.documentId;
     }
 
     @Override

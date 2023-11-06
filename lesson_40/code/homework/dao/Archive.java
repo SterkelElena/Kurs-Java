@@ -6,9 +6,9 @@ import java.time.LocalDate;
 
 public interface Archive {
     boolean addDocument(Document document);
-    boolean updateDocument(int folderId, int documentId, String name, String url);
-    Document  getDocument(int folderId, int documentId);
+    boolean updateDocument(int folderId, int documentId, String url);
+    Document  getDocumentFromFolder(int folderId, int documentId);
     Document[] getAllDocumentFromFolder(int folderId);
-    Document[] getDocumentsByDate(LocalDate dateFrom, LocalDate dateTo);
+    Document[] getDocumentByDate(LocalDate dateFrom, LocalDate dateTo);
     int size();
 }
