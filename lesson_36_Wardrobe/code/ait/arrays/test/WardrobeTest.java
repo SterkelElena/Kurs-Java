@@ -1,8 +1,6 @@
 package ait.arrays.test;
 
 import ait.wardrobe.model.Wardrobe;
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 import java.util.Comparator;
@@ -15,7 +13,7 @@ class WardrobeTest {
     static Random random = new Random();
     Wardrobe[] wardrobes;
 
-    @BeforeEach
+    @Beforeach
     void setUp() {
         wardrobes = new Wardrobe[SIZE];
         for (int i = 0; i < wardrobes.length; i++) {

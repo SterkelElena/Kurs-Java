@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36728994-f609-4d64-9823-4f23b32b9647" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lesson_02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_44/code/practice/complexity/ComplexityAppl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_44/code/practice/ilist/IList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_44/code/practice/ilist/IListAppl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_44/code/practice/ilist/IListImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_46/code/practice/city_bus/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_46/code/practice/city_bus/CityBusAppl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_47/code/practice/company_v2/EmployeeAppl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_47/code/practice/company_v2/dao/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_47/code/practice/company_v2/dao/CompanyArrayListImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_47/code/practice/company_v2/dao/CompanyImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_47/code/practice/company_v2/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_47/code/practice/company_v2/model/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_47/code/practice/company_v2/model/SalesManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_47/code/practice/company_v2/model/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_47/code/practice/company_v2/test/CompanyImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_48/code/practice/homework/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_48/code/practice/homework/CountryAppl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_48/code/practice/linked_list/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_48/code/practice/linked_list/NodeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_48/code/practice/linked_list/NodeListAppl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_48/code/practice/linked_list/NodeListImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_48/code/practice/performance_test/PerformanceTestAppl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_50/code/practice/supermarket/SupermarketAppl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_50/code/practice/supermarket/dao/Supermarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_50/code/practice/supermarket/dao/SupermarketImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_50/code/practice/supermarket/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_50/code/practice/supermarket/test/SupermarketImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_51/code/practice/homework/LandsOfGermany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_51/code/practice/homework/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_51/code/practice/long_sentence/LongSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_51/code/practice/numbers_duplicates/NumbersNoDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_51/code/practice/post_office/PostAppl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_52/code/practice/company_v3/EmployeeAppl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_52/code/practice/company_v3/dao/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_52/code/practice/company_v3/dao/CompanyArrayListImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_52/code/practice/company_v3/dao/CompanyHashSetImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_52/code/practice/company_v3/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_52/code/practice/company_v3/model/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_52/code/practice/company_v3/model/SalesManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_52/code/practice/company_v3/model/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_52/code/practice/company_v3/test/CompanyImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AitTR-Java-Course-2023.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_31/code/practice/company_v1/test/CompanyImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_31/code/practice/company_v1/test/CompanyImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_36_Wardrobe/code/ait/arrays/test/WardrobeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_36_Wardrobe/code/ait/arrays/test/WardrobeTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2XthFlJhfdqAaKCZkYHOp8yxmnH" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/lenas/AitTR-Java_Course/AitTR-Java-Course-2023/lesson_50/code/practice/supermarket/dao&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lenas/AitTR-Java_Course/AitTR-Java-Course-2023&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="practice.ilist" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="practice.supermarket.dao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CompanyImplTest">
+    <configuration name="EmployeeAppl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.company_v2.EmployeeAppl" />
+      <module name="AitTR-Java-Course-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.company_v2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerformanceTestAppl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.performance_test.PerformanceTestAppl" />
+      <module name="AitTR-Java-Course-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.performance_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompanyImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AitTR-Java-Course-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.company_v3.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practice.company_v3.test" />
+      <option name="MAIN_CLASS_NAME" value="practice.company_v3.test.CompanyImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompanyImplTest.findEmployeesHoursGreaterThanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AitTR-Java-Course-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.company_v2.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practice.company_v2.test" />
+      <option name="MAIN_CLASS_NAME" value="practice.company_v2.test.CompanyImplTest" />
+      <option name="METHOD_NAME" value="findEmployeesHoursGreaterThanTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompanyImplTest.findEmployeesSalaryRangeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AitTR-Java-Course-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.company_v2.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practice.company_v2.test" />
+      <option name="MAIN_CLASS_NAME" value="practice.company_v2.test.CompanyImplTest" />
+      <option name="METHOD_NAME" value="findEmployeesSalaryRangeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CompanyImplTest" />
+        <item itemvalue="Application.EmployeeAppl" />
+        <item itemvalue="Application.PerformanceTestAppl" />
+        <item itemvalue="JUnit.CompanyImplTest.findEmployeesHoursGreaterThanTest" />
+        <item itemvalue="JUnit.CompanyImplTest.findEmployeesSalaryRangeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36728994-f609-4d64-9823-4f23b32b9647" name="Changes" comment="" />
+      <created>1699454181282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699454181282</updated>
+    </task>
+    <servers />
+  </component>
+</project>
