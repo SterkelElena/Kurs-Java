@@ -4,61 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36728994-f609-4d64-9823-4f23b32b9647" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson_02/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_02/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_02/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_02/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_44/code/practice/complexity/ComplexityAppl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_44/code/practice/ilist/IList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_44/code/practice/ilist/IListAppl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_44/code/practice/ilist/IListImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_46/code/practice/city_bus/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_46/code/practice/city_bus/CityBusAppl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_47/code/practice/company_v2/EmployeeAppl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_47/code/practice/company_v2/dao/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_47/code/practice/company_v2/dao/CompanyArrayListImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_47/code/practice/company_v2/dao/CompanyImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_47/code/practice/company_v2/model/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_47/code/practice/company_v2/model/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_47/code/practice/company_v2/model/SalesManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_47/code/practice/company_v2/model/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_47/code/practice/company_v2/test/CompanyImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_48/code/practice/homework/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_48/code/practice/homework/CountryAppl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_48/code/practice/linked_list/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_48/code/practice/linked_list/NodeList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_48/code/practice/linked_list/NodeListAppl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_48/code/practice/linked_list/NodeListImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_48/code/practice/performance_test/PerformanceTestAppl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_50/code/practice/supermarket/SupermarketAppl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_50/code/practice/supermarket/dao/Supermarket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_50/code/practice/supermarket/dao/SupermarketImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_50/code/practice/supermarket/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_50/code/practice/supermarket/test/SupermarketImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_51/code/practice/homework/LandsOfGermany.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_51/code/practice/homework/Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_51/code/practice/long_sentence/LongSentence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_51/code/practice/numbers_duplicates/NumbersNoDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_51/code/practice/post_office/PostAppl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_52/code/practice/company_v3/EmployeeAppl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_52/code/practice/company_v3/dao/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_52/code/practice/company_v3/dao/CompanyArrayListImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_52/code/practice/company_v3/dao/CompanyHashSetImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_52/code/practice/company_v3/model/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_52/code/practice/company_v3/model/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_52/code/practice/company_v3/model/SalesManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_52/code/practice/company_v3/model/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_52/code/practice/company_v3/test/CompanyImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AitTR-Java-Course-2023.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_31/code/practice/company_v1/test/CompanyImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_31/code/practice/company_v1/test/CompanyImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_36_Wardrobe/code/ait/arrays/test/WardrobeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_36_Wardrobe/code/ait/arrays/test/WardrobeTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="36728994-f609-4d64-9823-4f23b32b9647" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
